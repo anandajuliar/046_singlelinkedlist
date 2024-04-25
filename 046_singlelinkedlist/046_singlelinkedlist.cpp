@@ -182,8 +182,5 @@ int main() {
 		default:
 			cout << "Pilihan tidak ada" << endl;
 			break;
-		default:
-			cout << "Pilihan tidak ada" << endl;
-			break;
 		}
 
